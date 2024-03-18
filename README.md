@@ -81,3 +81,6 @@ tasks:
 ```
 # Result
 ![result](https://raw.githubusercontent.com/muhk01/airflow_dag_factory/main/img/DAGFactory.PNG)
+
+# Additional workaround
+Some bash script may require an argument, an additional placeholder and argument thrown from DAG script may required.
